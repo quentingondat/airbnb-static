@@ -1,0 +1,57 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  description: Charmant appartement avec vue sur le Sacré-Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 2
+  beds: 3
+  property_type: Apartment
+  room_type: Entire home/apartment
+  kitchen: false
+  tv: false
+  welcome_drink: true
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpg
+  owner_picture: romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  description: Charmant appartement avec vue sur le Sacré-Coeur.
+  accomodates: 2
+  bathrooms: 2
+  bed_type: Real Bed
+  bedrooms: 2
+  beds: 4
+  property_type: Apartment
+  room_type: Entire home/apartment
+  kitchen: true
+  tv: true
+  welcome_drink: false
+anne:
+  owner_name: Anne Dupont
+  picture: card-brussels.jpg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Charming room in Brussels
+  city: Bruxelles, Belgique
+  wifi: true
+  description: Charmant appartement avec vue sur le Sacré-Coeur.
+  accomodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 2
+  beds: 3
+  property_type: Apartment
+  room_type: Entire home/apartment
+  kitchen: true
+  tv: true
+  welcome_drink: true
